@@ -1,4 +1,4 @@
-# project-2
+# Insurance Climb Prediction
 "It's my second internship capstone project."
  
 # Insurance Climb Prediction
